@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Coding-challenge
-Solutions to the coding challenges by John Crickett: https://codingchallenges.fyi/
-=======
+
 # build-your-own-wc
 
 ![alt text](images/your_own_wc_ccwc.png)
