@@ -56,4 +56,3 @@ When passed through stdin:
 
 - Make sure to use LF line endings in setup.sh if you encounter issues on Unix-like systems.
 - This tool is implemented in TypeScript and requires ts-node to run. The setup script installs necessary dependencies and creates a symbolic link to make the ccwc command available globally.
->>>>>>> r1remote/main
