@@ -12,13 +12,7 @@
 
 # Setup
 
-1. Clone the repo:
-
-`git@github.com:VedantGonnade/build-your-own-wc.git`
-
-- use http link if you are comfortable with http.
-
-2. Run setup.sh file
+1. Run setup.sh file
 
 `./setup.sh`
 
