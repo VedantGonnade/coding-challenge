@@ -3,7 +3,8 @@
 
 ![alt text](images/your_own_wc_ccwc.png)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/VedantGonnade/build-your-own-wc/ccwc%2Findex.ts) ![Gitea Last Commit (branch)](https://img.shields.io/github/last-commit/VedantGonnade/build-your-own-wc/main)
+![GitHub file size in bytes](https://img.shields.io/github/size/VedantGonnade/build-your-own-wc/ccwc%2Findex.ts) ![GitHub last commit](https://img.shields.io/github/last-commit/VedantGonnade/coding-challenge)
+
 
 ### This project is my version of the Unix command line tool : `wc` implemented in Typescript
 
